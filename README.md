@@ -1,4 +1,3 @@
-# 2017_Capstone_SCV
-2017 Kookin Univ. Capstone project SCV , team Command Center
+# 2017_capston_scv
 
-http://capstone.cs.kookmin.ac.kr/timbyeol-jinhaeng-hyeonhwang-1dangye-1/6jo-jomyeong
+2017 - 1 Capstone Design  Team 6 Command Center
